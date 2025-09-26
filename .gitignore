@@ -1,0 +1,11 @@
+# Ignorar checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar arquivos temporários de notebook
+*.nbconvert.ipynb
+
+# Ignorar outros arquivos comuns
+*.pyc
+__pycache__/
+
+
