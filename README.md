@@ -31,32 +31,39 @@ Período analisado: **Agosto de 2024 a Agosto de 2025**
 ## 🛠️ Ferramentas Utilizadas
 
 - Python 🐍
-- pandas
-- numpy
-- re (expressões regulares)
-- unidecode
-- Jupyter Notebook
+- pandas – manipulação e análise de dados
+- numpy – cálculos numéricos
+- re – tratamento de strings com expressões regulares
+- unidecode – padronização de textos
+- datetime – manipulação de datas e tempos
+- dateutil.parser – conversão inteligente de strings para datas
+- Jupyter Notebook – desenvolvimento e visualização da análise
+
 
 ---
 
 ## 📈 Passo a Passo da Análise
 
 1. **Importação e tratamento dos dados**
-   - Limpeza de caracteres especiais
-   - Padronização de colunas e formatos
+   - Limpeza e padronização dos dados brutos
+   - Remoção de caracteres especiais
+   - Padronização de colunas e formatos com `unidecode` e expressões regulares (`re`)
+   - Conversão e manipulação de datas com `datetime` e `dateutil.parser`
 
-2. **Análise descritiva**
+2. **Análise Exploratória**
    - Volume de campanhas por mês
    - Taxa de conversão por canal
    - Cursos mais vendidos por campanha
 
-3. **Geração de insights**
+3. **Visualizações**
+   - Gráficos de barras, linhas e mapas de calor
+   - Apoio visual para identificar padrões, sazonalidade e desempenho de campanhas
+
+4. **Geração de insights**
    - Identificação de campanhas com maior ROI
    - Correlações entre canais, tempo de campanha e resultado
-   - Recomendações estratégicas para o time comercial
+   - Recomendações estratégicas para o time comercial e de marketing
 
-4. **Visualizações**
-   - Gráficos de barras, linhas e mapas de calor para facilitar a leitura dos dados
 
 ---
 
