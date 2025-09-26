@@ -68,3 +68,14 @@ Período analisado: **Agosto de 2024 a Agosto de 2025**
 ---
 
 ## 🔍 Principais Insights
+
+- As campanhas com maior taxa de conversão foram aquelas que utilizaram **segmentação de público** e **comunicação personalizada**.
+- Determinados cursos tiveram **alta procura em meses específicos**, indicando sazonalidade.
+- Canais como **e-mail marketing segmentado** e **parcerias institucionais** geraram maior retorno sobre investimento.
+- A análise indicou **necessidade de ajustar o timing** de algumas campanhas para coincidir com o calendário acadêmico dos alunos-alvo.
+
+🎯 Conclusões Estratégicas
+1.	Segmentação > Volume: campanhas menores geram mais engajamento.
+2.	Conteúdo é chave: CTR real escancara discrepância de performance.
+3.	Evolução temporal: estratégia de 2025 mais madura que 2024.
+4.	Foco em ROI: concentrar recursos em campanhas de alta eficiência
