@@ -1,4 +1,4 @@
-# Análise de Campanhas de Marketing – Pós-graduação em Direito
+# Análise de Campanhas de Marketing
 
 ## 📌 Descrição
 
