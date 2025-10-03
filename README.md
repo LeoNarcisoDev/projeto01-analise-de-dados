@@ -1,5 +1,5 @@
 # 🧠 Projeto: Análise e Limpeza de Dados com Python  
-### Campanhas de Marketing & Relatórios de Vendas — | Grupo Ideal
+### Campanhas de Marketing & Relatórios de Vendas — |
 
 📊 **Resumo**  
 Este repositório contém dois pipelines completos em **Python** desenvolvidos para automatizar a **limpeza, padronização e análise de dados** de campanhas de marketing (e-mail) e relatórios de vendas, transformando bases brutas em **insights estratégicos e gráficos de performance**.
