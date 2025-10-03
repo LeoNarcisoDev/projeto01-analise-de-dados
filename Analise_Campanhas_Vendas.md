@@ -1,14 +1,6 @@
 
 # 📊 Análise Comparativa de Campanhas e Vendas
 
-⚠️ Aviso Importante:
-As bases de dados utilizadas neste projeto foram totalmente anonimizadas.
-Nenhum dado pessoal real (como nome, CPF, e-mail, telefone ou endereço IP) foi coletado, tratado ou publicado.
-
-Todos os exemplos e arquivos .csv presentes ou não no repositório têm finalidade exclusivamente educacional e demonstrativa, excluindo toda e quaisquer informações sensíveis.
-
-Este projeto segue as diretrizes da Lei nº 13.709/2018 (LGPD) e boas práticas de segurança e privacidade de dados.
-
 📌 **Descrição**  
 Este estudo analisa a relação entre campanhas de e-mail marketing (2024–2025) e as vendas de cursos de pós-graduação em Direito.  
 O foco não é apenas medir taxas de abertura e cliques, mas compreender **como a eficiência das campanhas se traduz em receita real**, quais produtos mais se beneficiam e quais estratégias devem ser priorizadas.  
@@ -88,3 +80,14 @@ O foco não é apenas medir taxas de abertura e cliques, mas compreender **como 
 ---
 
 👉 Este estudo mostra que **escala sem relevância não traz resultado**. O futuro das campanhas está na **personalização, diversificação de produtos e inteligência no calendário de disparo**.  
+
+
+
+
+⚠️ Aviso Importante:
+As bases de dados utilizadas neste projeto foram totalmente anonimizadas.
+Nenhum dado pessoal real (como nome, CPF, e-mail, telefone ou endereço IP) foi coletado, tratado ou publicado.
+
+Todos os exemplos e arquivos .csv presentes ou não no repositório têm finalidade exclusivamente educacional e demonstrativa, excluindo toda e quaisquer informações sensíveis.
+
+Este projeto segue as diretrizes da Lei nº 13.709/2018 (LGPD) e boas práticas de segurança e privacidade de dados.
