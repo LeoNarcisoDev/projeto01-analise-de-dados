@@ -1,13 +1,12 @@
 # 🧠 Projeto: Análise e Limpeza de Dados com Python  
-### Campanhas de Marketing & Relatórios de Vendas — |
-
+### Campanhas de Marketing & Relatórios de Vendas
 📊 **Resumo**  
 Este repositório contém dois pipelines completos em **Python** desenvolvidos para automatizar a **limpeza, padronização e análise de dados** de campanhas de marketing (e-mail) e relatórios de vendas, transformando bases brutas em **insights estratégicos e gráficos de performance**.
 
 Foram criados dois scripts independentes, otimizados para performance, clareza e reuso em diferentes bases de dados:
 
 - `vendas_analysis.py` → Análise de faturamento e Pareto de produtos  
-- `campanhas_posesa.py` → Limpeza e análise de campanhas de e-mail marketing  
+- `campanhas.py` → Limpeza e análise de campanhas de e-mail marketing  
 
 ---
 
@@ -77,5 +76,4 @@ Foram criados dois scripts independentes, otimizados para performance, clareza e
 
 ---
 
-## 🧱 Estrutura do Repositório
 
