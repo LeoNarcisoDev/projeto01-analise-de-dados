@@ -1,5 +1,15 @@
 # Análise de Campanhas de Marketing
 
+Conformidade com a LGPD (Lei Geral de Proteção de Dados)
+
+⚠️ Aviso Importante:
+As bases de dados utilizadas neste projeto foram totalmente anonimizadas.
+Nenhum dado pessoal real (como nome, CPF, e-mail, telefone ou endereço IP) foi coletado, tratado ou publicado.
+
+Todos os exemplos e arquivos .csv presentes ou não no repositório têm finalidade exclusivamente educacional e demonstrativa, excluindo toda e quaisquer informações sensíveis.
+
+Este projeto segue as diretrizes da Lei nº 13.709/2018 (LGPD) e boas práticas de segurança e privacidade de dados.
+
 ## 📌 Descrição
 
 
