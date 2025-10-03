@@ -1,6 +1,5 @@
 
-# 📊 Análise Comparativa de Campanhas e Vendas – Pós-graduação em Direito  
-
+# 📊 Análise Comparativa de Campanhas e Vendas
 📌 **Descrição**  
 Este estudo analisa a relação entre campanhas de e-mail marketing (2024–2025) e as vendas de cursos de pós-graduação em Direito.  
 O foco não é apenas medir taxas de abertura e cliques, mas compreender **como a eficiência das campanhas se traduz em receita real**, quais produtos mais se beneficiam e quais estratégias devem ser priorizadas.  
