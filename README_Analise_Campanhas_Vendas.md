@@ -80,3 +80,18 @@ O foco não é apenas medir taxas de abertura e cliques, mas compreender **como 
 ---
 
 👉 Este estudo mostra que **escala sem relevância não traz resultado**. O futuro das campanhas está na **personalização, diversificação de produtos e inteligência no calendário de disparo**.  
+
+
+# Anonimização de Campanhas e Conformidade com LGPD
+
+No projeto, os nomes das campanhas originais foram **anonimizados** e substituídos por identificadores genéricos.
+
+## Objetivo
+
+- Garantir **confidencialidade** de dados sensíveis e estratégicos.  
+- Cumprir a **LGPD (Lei nº 13.709/2018)**.  
+- Adotar **boas práticas de governança e privacidade da informação**.
+
+## Benefício
+
+Permite analisar métricas e tendências de marketing de forma segura, sem expor informações estratégicas ou pessoais, mantendo insights valiosos para tomada de decisão.
