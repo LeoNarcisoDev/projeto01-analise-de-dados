@@ -126,6 +126,21 @@ Após tratamento dos dados, a análise seguiu os seguintes passos:
 A análise resultou em um relatório estratégico contendo:
 
 - Ajustes recomendados no **calendário de campanhas**
+
+# Anonimização de Campanhas e Conformidade com LGPD
+
+No projeto, os nomes das campanhas originais foram **anonimizados** e substituídos por identificadores genéricos.
+
+## Objetivo
+
+- Garantir **confidencialidade** de dados sensíveis e estratégicos.  
+- Cumprir a **LGPD (Lei nº 13.709/2018)**.  
+- Adotar **boas práticas de governança e privacidade da informação**.
+
+## Benefício
+
+Permite analisar métricas e tendências de marketing de forma segura, sem expor informações estratégicas ou pessoais, mantendo insights valiosos para tomada de decisão.
+
 - Sugestões de **canais de maior retorno**
 - Destaque para os cursos com **maior potencial de venda**
 - Tabelas e visualizações que orientam o **time comercial e de marketing**
