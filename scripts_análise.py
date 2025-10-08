@@ -103,25 +103,34 @@ dataframe_base['Campanha'] = dataframe_base['Campanha'].apply(padronizar_texto)
 
 # Criando uma função para renomear as camapnhas com dados a serem analisados juntos !!!!
 
-def renomear_campanhas(texto):
+def agrupar_campanhas(texto):
     if 'inteligência artificial' in texto:
-        return "MiniCurso IA"
+        return "Campanha 1"
     elif 'marketing jurídico' in texto:
-        return "MiniCurso MJ"
+        return "Campanha 2"
     elif 'direito processual' in texto:
-        return "DPCC"
+        return "Campanha 3"
     elif 'black friday' in texto:
-        return "Campanha Black Friday"
+        return "Campanha 4"
     elif 'imobiliária' in texto:
-        return "Pós Imobiliária"
+        return "Campanha 5"
     elif 'empresarial' in texto:
-        return "Pós Empresarial"
+        return "Campanha 6"
     elif 'familiar' in texto:
-        return "Pós Familiar"
+        return "Campanha 7"
     elif 'namorados' in texto:
-        return 'Campanha Namorados'
+        return "Campanha 8"
+    elif 'habeas corpus' in texto:
+        return "Campanha 9"
+    elif 'consumidor' in texto:
+        return "Campanha 10"
+    elif 'mba' in texto:
+        return "Campanha 11"
+    elif 'páscoa' in texto:
+        return "Campanha 12"
     else:
-        return texto
+        return "texto"
+
 
 dataframe_base['Campanha'] = dataframe_base['Campanha'].apply(renomear_campanhas)
 
@@ -170,7 +179,7 @@ resultado = agrupado[[
 # Deletando colunas indesejadas
 
 agrupado.drop('Data_Final', axis=1, inplace=True)
-agrupado.drop(index=5, inplace=True)
+agrupado.drop(index=12, inplace=True)
 
 
 # Renomenando colunas

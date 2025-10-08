@@ -25,8 +25,8 @@ O foco não é apenas medir taxas de abertura e cliques, mas compreender **como 
 📈 **Resultados Detalhados**  
 
 **1. Eficiência das campanhas**  
-- Campanhas segmentadas (Consumidor, DPCC, Empresarial) → CTR entre 20% e 55%.  
-- Campanhas massivas (Black Friday, Pós Familiar) → CTR abaixo de 3%.  
+- Campanhas segmentadas (Campanha10, Campanha3, Campanha6) → CTR entre 20% e 55%.  
+- Campanhas massivas (Campanha4, Camapnha7) → CTR abaixo de 3%.  
 - Regra 80/20 clara: apenas 3 campanhas responderam por mais de 80% do engajamento.  
 
 🔎 **Insight:** Segmentação + copy de alto valor são decisivos. Escala sem relevância apenas gera custo de oportunidade.  
@@ -34,9 +34,9 @@ O foco não é apenas medir taxas de abertura e cliques, mas compreender **como 
 ---
 
 **2. Distribuição por produto**  
-- **Familiar e Sucessória**: 34,5% da receita → líder, mas com campanha fraca → vendas puxadas por demanda orgânica ou reputação.  
-- **Trabalhista e Previdenciária (16%)** e **DPCC (10,6%)**: produtos consistentes, apoiados por campanhas eficientes.  
-- **Outros cursos (criminal, trabalhista)**: <10% cada → precisam de reposicionamento para ganhar tração.  
+- **Produto1**: 34,5% da receita → líder, mas com campanha fraca → vendas puxadas por demanda orgânica ou reputação.  
+- **Produto3 e Produto4 (16%)** e **Produto7 (10,6%)**: produtos consistentes, apoiados por campanhas eficientes.  
+- **Outros cursos (produto5, produto6)**: <10% cada → precisam de reposicionamento para ganhar tração.  
 
 🔎 **Insight:** O portfólio depende de poucos cursos-âncora. Há risco estratégico se não houver diversificação de performance em outros produtos.  
 
@@ -62,16 +62,16 @@ O foco não é apenas medir taxas de abertura e cliques, mas compreender **como 
 
 ## 🔍 Insights Estratégicos  
 - **Segmentação profunda**: campanhas menores, mas direcionadas, convertem até 20x mais do que disparos massivos.  
-- **Produto líder sem campanha eficaz = risco**: Familiar e Sucessória precisa de narrativa própria para não depender apenas da procura espontânea.  
+- **Produto líder sem campanha eficaz = risco**: Produto1 precisa de narrativa própria para não depender apenas da procura espontânea.  
 - **Calendário inteligente**: campanhas devem ser reforçadas em fevereiro, março e dezembro, além de concentrar disparos em seg/qua/qui.  
-- **Diversificação**: hoje 2–3 cursos sustentam a maior parte da receita. É crítico reposicionar cursos médios (Criminal, Trabalhista) para diluir risco.  
+- **Diversificação**: hoje 2–3 cursos sustentam a maior parte da receita. É crítico reposicionar cursos médios (Produto3 e Produto4) para diluir risco.  
 - **Pagamentos à vista como alavanca financeira**: incentivar Pix e Boleto com bônus (material extra, mentoria, acesso premium) pode melhorar margem e reduzir inadimplência.  
 
 ---
 
 ## ✅ Próximos Passos  
-1. **Benchmark interno**: usar as campanhas Consumidor e DPCC como padrão de copywriting, assunto e CTA para novas ações.  
-2. **Reestruturação estratégica**: redesenhar campanha de Familiar e Sucessória com storytelling mais focado em dores práticas e segmentação avançada.  
+1. **Benchmark interno**: usar as campanhas 10 e 3 como padrão de copywriting, assunto e CTA para novas ações.  
+2. **Reestruturação estratégica**: redesenhar campanha8 com storytelling mais focado em dores práticas e segmentação avançada.  
 3. **Planejamento de calendário**: alinhar disparos a datas de alta sazonalidade (dez/fev/mar) e aos dias mais fortes da semana.  
 4. **Diversificação de portfólio**: investir em reposicionamento de cursos de segunda linha, equilibrando a dependência dos top 3 produtos.  
 5. **Gestão financeira via marketing**: aumentar share de Pix/Boleto para reduzir inadimplência e otimizar fluxo de caixa.  
